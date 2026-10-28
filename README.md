@@ -1,4 +1,4 @@
-# Projeto OngConecta - CI/CD e GCS
+# Projeto GCPS - CI/CD e GCS
 
 Repositório estruturado para a implementação de práticas de DevOps, CI/CD e Gestão de Configuração de Software.
 
